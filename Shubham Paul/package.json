@@ -1,0 +1,19 @@
+{
+  "name": "buy-me-a-coffee",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "git": "git add . \n git commit -m 'file added' \n git push",
+    "status": "git status"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}
