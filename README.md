@@ -1,5 +1,7 @@
 
 # Your Projects
+Hello new contributors, this is a beginner-friendly repo here you can add any frontend project. Could you make sure that first make a folder of your name add your project and add a readme.md file which contains a screenshot of the project, and your GitHub user ID
+
 
 ## Table of Contents
 1. Introduction
